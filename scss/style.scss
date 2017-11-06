@@ -139,7 +139,7 @@ footer {
             @include h1_mobile_and_p_media;
             display: inline;
             @include top(40%);
-            font-size: 2rem;
+            font-size: 1.5rem;
             line-height: 2.5rem;
             margin: 0 1rem;
             }
@@ -178,7 +178,8 @@ footer {
     header{
             height: 75vh; 
         p {
-            line-height: 4rem;
+            line-height: 3rem;
+            font-size: 2rem;
         }
         .button {
             @include h1_mobile_and_p_media;

@@ -159,7 +159,7 @@ footer {
     width: 100%;
     display: inline;
     top: 40%;
-    font-size: 2rem;
+    font-size: 1.5rem;
     line-height: 2.5rem;
     margin: 0 1rem; }
 
@@ -182,7 +182,8 @@ footer {
   header {
     height: 75vh; }
     header p {
-      line-height: 4rem; }
+      line-height: 3rem;
+      font-size: 2rem; }
     header .button {
       position: absolute;
       z-index: 2;
